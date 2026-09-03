@@ -1,0 +1,7 @@
+{
+  "cloudflare": {
+    "api_token": "your_cloudflare_api_token",
+    "account_id": "your_cloudflare_account_id",
+    "zone_id": "optional"
+  }
+}

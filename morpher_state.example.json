@@ -1,0 +1,8 @@
+{
+  "oob": {
+    "url": "https://listener.example.com/hook",
+    "auth": "bearer",
+    "token": "your-listener-secret",
+    "domains": ["example.com", "*.api.example.com"]
+  }
+}
